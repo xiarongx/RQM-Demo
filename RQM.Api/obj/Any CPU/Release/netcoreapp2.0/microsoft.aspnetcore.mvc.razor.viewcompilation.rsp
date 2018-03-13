@@ -1,0 +1,5 @@
+C:\CICD - Demo\RQMServices\RQM.Api
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=RQM.Api
+--content-root=C:\CICD - Demo\RQMServices\RQM.Api
+--file=

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\CICD\\RQMServices\\RQM.OP\\RQM.OP.csproj",
+      "projectUniqueName": "C:\\CICD - Demo\\RQMServices\\RQM.OP\\RQM.OP.csproj",
       "projectName": "RQM.OP",
-      "projectPath": "C:\\CICD\\RQMServices\\RQM.OP\\RQM.OP.csproj",
+      "projectPath": "C:\\CICD - Demo\\RQMServices\\RQM.OP\\RQM.OP.csproj",
       "packagesPath": "C:\\Users\\cxu\\.nuget\\packages\\",
-      "outputPath": "C:\\CICD\\RQMServices\\RQM.OP\\obj\\",
+      "outputPath": "C:\\CICD - Demo\\RQMServices\\RQM.OP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

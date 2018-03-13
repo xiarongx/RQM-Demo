@@ -4646,11 +4646,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\CICD\\RQMServices\\RQM.Data\\RQM.Data.csproj",
+      "projectUniqueName": "C:\\CICD - Demo\\RQMServices\\RQM.Data\\RQM.Data.csproj",
       "projectName": "RQM.Data",
-      "projectPath": "C:\\CICD\\RQMServices\\RQM.Data\\RQM.Data.csproj",
+      "projectPath": "C:\\CICD - Demo\\RQMServices\\RQM.Data\\RQM.Data.csproj",
       "packagesPath": "C:\\Users\\cxu\\.nuget\\packages\\",
-      "outputPath": "C:\\CICD\\RQMServices\\RQM.Data\\obj\\",
+      "outputPath": "C:\\CICD - Demo\\RQMServices\\RQM.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

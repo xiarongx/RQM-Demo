@@ -1,0 +1,13 @@
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Api.deps.json
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Api.runtimeconfig.json
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Api.runtimeconfig.dev.json
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Api.dll
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Api.pdb
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Data.dll
+C:\CICD - Demo\RQMServices\RQM.Api\bin\Release\netcoreapp2.0\RQM.Data.pdb
+C:\CICD - Demo\RQMServices\RQM.Api\obj\Release\netcoreapp2.0\RQM.Api.csprojResolveAssemblyReference.cache
+C:\CICD - Demo\RQMServices\RQM.Api\obj\Release\netcoreapp2.0\RQM.Api.csproj.CoreCompileInputs.cache
+C:\CICD - Demo\RQMServices\RQM.Api\obj\Release\netcoreapp2.0\RQM.Api.AssemblyInfoInputs.cache
+C:\CICD - Demo\RQMServices\RQM.Api\obj\Release\netcoreapp2.0\RQM.Api.AssemblyInfo.cs
+C:\CICD - Demo\RQMServices\RQM.Api\obj\Release\netcoreapp2.0\RQM.Api.dll
+C:\CICD - Demo\RQMServices\RQM.Api\obj\Release\netcoreapp2.0\RQM.Api.pdb
